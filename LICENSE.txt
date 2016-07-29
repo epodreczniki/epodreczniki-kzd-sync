@@ -1,0 +1,18 @@
+Niniejszy kod został wytworzony w Instytucie Chemii Bioorganicznej PAN -
+Poznańskim Centrum Superkomputerowo-Sieciowym w ramach projektu “E-podręczniki
+do kształcenia ogólnego”, w ramach Programu Operacyjnego Kapitał Ludzki na mocy
+umowy partnerskiej nr WP-EP/4020/2-1/2013 z dnia 26.02.2013 r. zawartej z
+Ośrodkiem Rozwoju Edukacji (zwany dalej „ORE”), z późniejszym przeniesieniem
+autorskich praw majątkowych na ORE na mocy odrębnej umowy.
+
+Kod upublicznia się wyłącznie do wglądu, na potrzeby postępowań przetargowych
+prowadzonych przez ORE.
+
+Kopiowanie, redystrybucja i używanie, włączanie do innego oprogramowania -
+zarówno w formie kodu źródłowego, jak i w formie wykonywalnej, a także
+rozwijanie wraz lub bez modyfikacji (opracowań, utworów pochodnych, przeróbek
+i adaptacji) dla celów niekomercyjnych są dozwolone wyłącznie po uzyskaniu
+zgody ORE (www.ore.edu.pl). Jednocześnie ORE informuje, iż nie przewiduje
+możliwości udzielenia zgody na czynności, o których mowa w zdaniu
+poprzedzającym, jeżeli celem będzie użytek komercyjny.
+

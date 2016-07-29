@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kzd xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://static.beta.epodreczniki.pl/resources/kzd/men/schema.xsd">
+  <resource id="KZD0000001">
+    <files>
+      <thumbnail path="/zasoby/koledy/test-miniaturka.png" />
+      <file path="/zasoby/!gotowe/elementarz_czesc_1_jesien/elementarz_jesien.pdf" />
+      <file path="/zasoby/!gotowe/elementarz_czesc_1_jesien/multibook/multibook_naszelementarz_cz1.zip" label="multibook" />
+      <file path="/zasoby/!gotowe/elementarz_czesc_1_jesien/multibook/multibook_naszelementarz_cz1.exe" label="multibook" />
+    </files>
+    <category>podręczniki</category>
+    <title>Nasz elementarz klasa 1., cz. 1 - Jesien</title>
+    <author>Maria Lorek, Lidia Wolman</author>
+    <description>Podrecznik dla klas I szkoły podstawowej  </description>
+    <keywords>nauczanie zintegrowane, podrecznik, szkoła podstawowa, wprowadzenie liter, edukacja wczesnoszkolna</keywords>
+    <alt>podręcznik w formacie pdf </alt>
+    <license>CC BY 3.0</license>
+    <origin>pozostałe</origin>
+    <recipient>student</recipient>
+    <learning-objectives>
+      <uspp>E1-POCZ-EMAT-1.0-KLI-7</uspp>
+      <uspp>E1-POCZ-EMUZ-1.0-KLI-3</uspp>
+      <uspp>E1-POCZ-EPLAST-1.0-KLI-4</uspp>
+      <uspp>E1-POCZ-EPOL-1.0-KLI-1</uspp>
+      <uspp>E1-POCZ-EPRZYR-1.0-KLI-6</uspp>
+      <uspp>E1-POCZ-ESPOL-1.0-KLI-5</uspp>
+      <uspp>E1-POCZ-ETY-1.0-KLI-11</uspp>
+    </learning-objectives>
+  </resource>
+  <resource id="KZD0000003">
+    <files>
+      <thumbnail path="/zasoby/koledy/test-miniaturka.png" />
+      <file path="/zasoby/!gotowe/elementarz_czesc_3_wiosna/elementarz_wiosna.pdf" />
+      <file path="/zasoby/!gotowe/elementarz_czesc_3_wiosna/multibook/multibook_naszelementrarz_cz3.exe" label="multibook" />
+    </files>
+    <category>podręczniki</category>
+    <title>Nasz elementarz klasa 1., cz.3 - Wiosna</title>
+    <author>Maria Lorek, Lidia Wolman</author>
+    <description>Podrecznik dla klas I szkoły podstawowej  </description>
+    <keywords>nauczanie zintegrowane, podrecznik, szkoła podstawowa, wprowadzenie liter, edukacja wczesnoszkolna</keywords>
+    <alt>podręcznik w formacie pdf </alt>
+    <license>read-only</license>
+    <origin>pozostałe</origin>
+    <recipient>student</recipient>
+    <learning-objectives>
+      <uspp>E1-POCZ-EMAT-1.0-KLI-7</uspp>
+      <uspp>E1-POCZ-EMUZ-1.0-KLI-3</uspp>
+      <uspp>E1-POCZ-EPLAST-1.0-KLI-4</uspp>
+      <uspp>E1-POCZ-EPOL-1.0-KLI-1</uspp>
+      <uspp>E1-POCZ-EPRZYR-1.0-KLI-6</uspp>
+      <uspp>E1-POCZ-ESPOL-1.0-KLI-5</uspp>
+      <uspp>E1-POCZ-ETY-1.0-KLI-11</uspp>
+    </learning-objectives>
+  </resource>
+  <resource id="przykladowy_film">
+    <files>
+      <thumbnail path="" />
+      <file path="" label="Tekst kolędy w formacie PDF" />
+    </files>
+    <category>podręczniki</category>
+    <title>Nasz Elementarz - część 1</title>
+    <author>MEN</author>
+    <description>To jest opis tej Naszego Elementarza. To jest kolejne zdanie opisu.</description>
+    <keywords>elementarz, dzieci, jesień</keywords>
+    <alt>Lorem ipsum...</alt>
+    <license>CC BY 2.0</license>
+    <origin>pozostałe</origin>
+    <recipient>student</recipient>
+    <learning-objectives>
+      <uspp>E4-SRE-FIZ-1.0-II-13.3</uspp>
+      <uspp>E3-GIM-BIOL-1.0-IV.3</uspp>
+    </learning-objectives>
+    <environments>
+      <environment>Windows</environment>
+    </environments>
+  </resource>
+</kzd>
